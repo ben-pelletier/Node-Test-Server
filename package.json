@@ -1,0 +1,22 @@
+{
+  "name": "node-test-server",
+  "version": "1.0.0",
+  "description": "Stupid simple node test server.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-pelletier/Node-Test-Server.git"
+  },
+  "author": "Benjamin Pelletier <ben.epelletier@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/ben-pelletier/Node-Test-Server/issues"
+  },
+  "homepage": "https://github.com/ben-pelletier/Node-Test-Server#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "http": "0.0.0"
+  }
+}
